@@ -1,0 +1,83 @@
+#unasked-question form {
+    padding: 0px;
+    margin: 0px;
+	border: 1px solid #CCCCCC;
+}
+
+#unasked-question h3 img{
+	vertical-align: middle;
+}
+
+#unasked-post-question-link {
+    font-size:15px;
+}
+
+ul#unasked-question-list li {
+    font-size: 13px;    
+    margin-bottom: 15px;
+}
+
+ul#unasked-question-list li .show-answers-link {
+    font-weight: bold;
+}
+
+.create-date {
+    font-size: 10px;
+}
+
+ul#unasked-question-list .pagination {
+    font-size: 11px;
+}
+
+.message {
+    background-color: #FFFBCC;
+    font-weight: bold;
+    color: #000;
+}
+
+#unasked-question h3, #unasked-login h3, #unasked-register h3 {
+    color: #000;
+    padding: 5px;
+    margin: 0px;
+    /*background-color: #178ED9;*/
+        
+}
+
+#unasked label, #unasked-login-form label, #unasked-register label {
+    display: block;
+}
+
+#questions .captcha{
+    margin: 0px;
+}
+
+input#unasked-question-text{
+
+	padding: 5px;
+	font: 12px Arial, Helvetica, sans-serif;
+	margin: 0px auto 10px auto;
+	width: 82%;
+	
+}
+
+#captcha-code{
+	padding: 5px;
+	font: 12px Arial, Helvetica, sans-serif;
+}
+
+span.question-captcha-container img{
+	margin: 0px;
+	padding: 0px;
+	vertical-align: middle;
+}
+
+.submit-question{
+	margin: 10px 0px 0px;
+	padding: 0px;
+}
+
+#unasked-question fieldset{
+	margin: 0px;
+	padding: 10px;
+	border: 0px none; 
+}
